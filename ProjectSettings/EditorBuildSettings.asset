@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/LoadingScene.unity
+  - enabled: 0
+    path: Assets/Scenes/BillboardScene.unity
+  - enabled: 0
+    path: Assets/Scenes/BillboardSceneInspace.unity
+  - enabled: 0
+    path: Assets/Scenes/BillboardSceneWithTargets.unity
+  - enabled: 0
+    path: Assets/Scenes/BillboardSceneETH_meets_NY.unity
+  - enabled: 1
+    path: Assets/ReflectionMapping/Scenes/Demo.unity
+  - enabled: 0
+    path: Assets/Scenes/BillboardScene_StandAlone.unity
