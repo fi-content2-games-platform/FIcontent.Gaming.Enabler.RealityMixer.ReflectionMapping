@@ -16,6 +16,6 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/BillboardSceneETH_meets_NY.unity
   - enabled: 1
-    path: Assets/ReflectionMapping/Scenes/Demo.unity
+    path: Assets/ReflectionMapping/Example/Demo.unity
   - enabled: 0
     path: Assets/Scenes/BillboardScene_StandAlone.unity
